@@ -18,3 +18,9 @@ To play the Brick Breaker game, follow these steps:
 2. Navigate to the game directory: `cd breaker-game`
 3. Run the game using your preferred method.
 
+<h2 class="video-title">The Application</h2>
+<p align="center">
+  <img src="Capture1.PNG" width="33%" />
+  <img src="Capture2.PNG" width="33%" />
+  <img src="Capture3.PNG" width="33%" />
+</p>
